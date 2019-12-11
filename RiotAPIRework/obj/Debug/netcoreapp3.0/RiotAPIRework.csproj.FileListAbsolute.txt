@@ -1,0 +1,17 @@
+C:\Users\carlt\OneDrive\Desktop\ToolsAssignment\RiotAPIRework\RiotAPIRework\bin\Debug\netcoreapp3.0\RiotAPIRework.exe
+C:\Users\carlt\OneDrive\Desktop\ToolsAssignment\RiotAPIRework\RiotAPIRework\obj\Debug\netcoreapp3.0\RiotAPIRework.csprojAssemblyReference.cache
+C:\Users\carlt\OneDrive\Desktop\ToolsAssignment\RiotAPIRework\RiotAPIRework\obj\Debug\netcoreapp3.0\RiotAPIRework.AssemblyInfoInputs.cache
+C:\Users\carlt\OneDrive\Desktop\ToolsAssignment\RiotAPIRework\RiotAPIRework\obj\Debug\netcoreapp3.0\RiotAPIRework.AssemblyInfo.cs
+C:\Users\carlt\OneDrive\Desktop\ToolsAssignment\RiotAPIRework\RiotAPIRework\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\carlt\OneDrive\Desktop\ToolsAssignment\RiotAPIRework\RiotAPIRework\obj\Debug\netcoreapp3.0\RiotAPIRework.csproj.CopyComplete
+C:\Users\carlt\OneDrive\Desktop\ToolsAssignment\RiotAPIRework\RiotAPIRework\bin\Debug\netcoreapp3.0\Program.cs
+C:\Users\carlt\OneDrive\Desktop\ToolsAssignment\RiotAPIRework\RiotAPIRework\bin\Debug\netcoreapp3.0\Summoner.cs
+C:\Users\carlt\OneDrive\Desktop\ToolsAssignment\RiotAPIRework\RiotAPIRework\bin\Debug\netcoreapp3.0\SummonerV4.cs
+C:\Users\carlt\OneDrive\Desktop\ToolsAssignment\RiotAPIRework\RiotAPIRework\bin\Debug\netcoreapp3.0\RiotAPIRework.deps.json
+C:\Users\carlt\OneDrive\Desktop\ToolsAssignment\RiotAPIRework\RiotAPIRework\bin\Debug\netcoreapp3.0\RiotAPIRework.runtimeconfig.json
+C:\Users\carlt\OneDrive\Desktop\ToolsAssignment\RiotAPIRework\RiotAPIRework\bin\Debug\netcoreapp3.0\RiotAPIRework.runtimeconfig.dev.json
+C:\Users\carlt\OneDrive\Desktop\ToolsAssignment\RiotAPIRework\RiotAPIRework\bin\Debug\netcoreapp3.0\RiotAPIRework.dll
+C:\Users\carlt\OneDrive\Desktop\ToolsAssignment\RiotAPIRework\RiotAPIRework\bin\Debug\netcoreapp3.0\RiotAPIRework.pdb
+C:\Users\carlt\OneDrive\Desktop\ToolsAssignment\RiotAPIRework\RiotAPIRework\bin\Debug\netcoreapp3.0\Camille.dll
+C:\Users\carlt\OneDrive\Desktop\ToolsAssignment\RiotAPIRework\RiotAPIRework\obj\Debug\netcoreapp3.0\RiotAPIRework.dll
+C:\Users\carlt\OneDrive\Desktop\ToolsAssignment\RiotAPIRework\RiotAPIRework\obj\Debug\netcoreapp3.0\RiotAPIRework.pdb
